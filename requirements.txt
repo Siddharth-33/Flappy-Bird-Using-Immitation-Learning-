@@ -1,0 +1,7 @@
+# Dependencies for Flappy Bird DAgger
+torch>=2.0.0
+pygame>=2.5.0
+numpy>=1.24.0
+Pillow>=9.0.0
+# PyGame Learning Environment (PLE) is installed from source
+git+https://github.com/ntasfi/PyGame-Learning-Environment.git#egg=ple

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+*_env/
+
+# Model checkpoints (optional to ignore, or track lightweight ones)
+*.pth
+*.pt
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
