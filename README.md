@@ -6,11 +6,9 @@ An autonomous AI agent trained to play **Flappy Bird** from scratch using **Imit
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/9b4f7fa4-a976-4b3c-a833-4ec21eeb5954
-
-
-
+<p align="center">
+  <img src="assets/Demo.mp4" alt="Flappy Bird AI Gameplay" width="400"/>
+</p>
 <!-- You can replace this demo GIF or video with your recorded screen capture! -->
 <!-- Tip: GitHub supports drag-and-drop video/GIF uploads directly into README issues or Markdown! -->
 
