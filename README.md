@@ -9,9 +9,8 @@ An autonomous AI agent trained to play **Flappy Bird** from scratch using **Imit
 <!-- You can replace this demo GIF or video with your recorded screen capture! -->
 <!-- Tip: GitHub supports drag-and-drop video/GIF uploads directly into README issues or Markdown! -->
 
-<p align="center">
-  <img src="assets/demo.webm" alt="Flappy Bird AI Gameplay" width="400"/>
-</p>
+
+
 
 > *The trained neural network agent autonomously navigating pipes in real-time.*
 
