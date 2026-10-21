@@ -18,3 +18,9 @@ env/
 .DS_Store
 .vscode/
 .idea/
+
+# ESP-IDF
+**/build/
+sdkconfig
+sdkconfig.old
+
